@@ -1,0 +1,5 @@
+{
+  "name": "ToraIsme GUI Builder",
+  "description": "A visual editor and Lua code generator for the Tora UI Library on Roblox.",
+  "requestFramePermissions": []
+}
